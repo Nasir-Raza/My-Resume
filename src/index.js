@@ -14,7 +14,7 @@ function MyResume() {
       </div>
       <div>
         <ul>
-          <h1 className="pinfo">NaSiR RaZa</h1>
+          <h1 className="pinfo">Nasir Raza</h1>
           <li className="pinfo">Buffer Zone, North Karachi</li>
           <li className="pinfo">
             <u>send2raza@gmail.com</u> +92 3333748662
